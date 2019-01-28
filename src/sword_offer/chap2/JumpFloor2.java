@@ -1,4 +1,4 @@
-package chap2;
+package sword_offer.chap2;
 
 /**
  * 一只青蛙一次可以跳上1级台阶，也可以跳上2级……它也可以跳上n级。

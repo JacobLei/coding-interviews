@@ -1,4 +1,4 @@
-package chap2;
+package sword_offer.chap2;
 
 import java.util.LinkedList;
 

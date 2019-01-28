@@ -1,4 +1,4 @@
-package chap2;
+package sword_offer.chap2;
 
 /**
  * 把一个数组最开始的若干个元素搬到数组的末尾，我们称之为数组的旋转。
